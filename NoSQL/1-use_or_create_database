@@ -1,2 +1,2 @@
-//Create a database
+--my_db creates the database, if it does not exist
 CREATE DATABASE IF NOT EXISTS my_db;
